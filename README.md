@@ -1,6 +1,1 @@
-https://kenjiiiii168.github.io/Port2/
-# Project Title
-
-## Links
-
-[(https://kenjiiiii168.github.io/Port2/)](https://kenjiiiii168.github.io/Port2/)
+[Link ดูผลงาน](https://kenjiiiii168.github.io/Port2/)
